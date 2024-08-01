@@ -1,0 +1,14 @@
+About Dataset
+Welcome to the Mobile Sales Dataset! This dataset provides detailed information on mobile device sales, capturing various aspects such as sales figures, device types, and regional performance.
+It offers valuable insights into the mobile sales industry, including trends and patterns across different markets. 
+Whether you're analyzing market dynamics or building predictive models, this dataset is designed to support a wide range of data science and analytical projects.
+
+The dataset includes:
+
+Date of Sale: Dates on which the sales transactions occurred.
+Device Type: Various types of mobile devices sold, including smartphones and feature phones.
+Region: Different geographical regions where sales were recorded.
+Units Sold: Number of units sold for each device.
+Sales Revenue: Revenue generated from sales.
+Customer Demographics: Information on the customers who made purchases, including age and gender.
+Retailer: Retail outlets where the sales were made.
