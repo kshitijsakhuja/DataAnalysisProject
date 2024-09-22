@@ -1,0 +1,12 @@
+About Dataset:
+
+1. customer_id: Unique ID of the customer.
+2. age: The age of the customer.
+3. annual_income: The customer's annual income (in USD).
+4. purchase_amount: The total amount of purchases made by the customer (in USD).
+5. purchase_frequency: Frequency of customer purchases (number of times per year).
+6. region: The region where the customer lives (North, South, East, West).
+7. loyalty_score: Customer's loyalty score (a value between 0-100).
+
+
+This dataset includes information on customer profiles and their purchasing behaviors. The data features columns for user ID, age, annual income, purchase amount, loyalty score (categorized into classes), region, and purchase frequency. It is intended for analyzing customer segmentation and loyalty trends, and can be used for various machine learning and data analysis tasks related to customer behavior and market research.
